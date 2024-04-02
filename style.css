@@ -1,0 +1,224 @@
+* {
+  box-sizing: border-box;
+  background-color: #9cb7d8;
+  margin: 0px;
+  padding: 0px;
+}
+ul {
+  background-color: #81968f;
+  text-align: center;
+  height: 61px;
+  padding-top: 5px;
+  box-shadow: 0px 1px 20px 0px #846335;
+  position: sticky;
+  top: 0px;
+}
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  background-color: #b48291;
+  border-right: 5px solid #846335;
+  text-align: center;
+}
+ul a {
+  font-size: 20px;
+  font-family: monospace;
+  background-color: #81968f;
+  padding-top: 12px;
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+}
+.h:hover {
+  background-color: #e8ccbf;
+  color: #474747;
+}
+.n:hover {
+  background-color: #e8ccbf;
+  color: #474747;
+}
+.c:hover {
+  background-color: #e8ccbf;
+  color: #474747;
+}
+.a:hover {
+  background-color: #e8ccbf;
+  color: #474747;
+}
+.div1:hover {
+  box-shadow: 0px 0px 20px 0px #846335;
+}
+.div2:hover {
+  box-shadow: 0px 0px 20px 0px #2e4057;
+}
+.div3:hover {
+  box-shadow: 0px 0px 20px 0px #846335;
+}
+.div4:hover {
+  box-shadow: 0px 0px 20px 0px #2e4057;
+}
+:root {
+  scroll-behavior: smooth;
+}
+.heading {
+  margin: 40px;
+  padding: 48px;
+  padding-left: 72px;
+  padding-top: 83px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 300px;
+  font-weight: bold;
+  color: #474747;
+  text-align: center;
+  text-shadow: 20px 10px 0px #cfb9a5, -15px -6px 0px #81968f;
+}
+.total {
+  height: auto;
+  width: 1358px;
+}
+.div1 {
+  margin: 20px 15px;
+  margin-top: 100px;
+  width: 1315px;
+  height: 790px;
+  background-color: #cfb9a5;
+  border-radius: 20px;
+}
+.h1 {
+  width: 1250px;
+  height: 50px;
+  background-color: #81968f;
+  margin: 20px 30px;
+  border-radius: 10px;
+  padding: 4px 0px 0px 30px;
+  color: #fff;
+  font-family: monospace;
+  font-size: 35px;
+  box-shadow: 0px 0px 10px 5px #846335;
+}
+.p1 {
+  background-color: #cfb9a5;
+  color: #474747;
+  width: 1315px;
+  height: 600px;
+  padding: 4px 30px 30px 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  text-align: justify;
+  text-shadow: 0px 0px 0px 0px #2b70ca;
+}
+.div2 {
+  margin: 20px 15px;
+  width: 1315px;
+  height: 775px;
+  background-color: #81968f;
+  border-radius: 20px;
+}
+.h2 {
+  width: 1250px;
+  height: 50px;
+  background-color: #cfb9a5;
+  margin: 20px 30px;
+  border-radius: 10px;
+  padding: 4px 0px 0px 30px;
+  color: #474747;
+  font-family: monospace;
+  font-size: 35px;
+  box-shadow: 0px 0px 10px 5px #846335;
+}
+.p2 {
+  background-color: #81968f;
+  color: #fff;
+  width: 1315px;
+  height: 600px;
+  padding: 4px 30px 30px 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  text-align: justify;
+  border: radius 20px;
+}
+.div3 {
+  margin: 20px 15px;
+  width: 1315px;
+  height: 535px;
+  background-color: #cfb9a5;
+  border-radius: 20px;
+}
+.h3 {
+  width: 1250px;
+  height: 50px;
+  background-color: #81968f;
+  margin: 20px 30px;
+  border-radius: 10px;
+  padding: 4px 0px 0px 30px;
+  color: #fff;
+  font-family: monospace;
+  font-size: 35px;
+  box-shadow: 0px 0px 10px 5px #846335;
+}
+.p3 {
+  background-color: #cfb9a5;
+  color: #474747;
+  width: 1315px;
+  height: 405px;
+  padding: 4px 30px 30px 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  text-align: justify;
+  border: radius 20px;
+}
+.div4 {
+  margin: 20px 15px;
+  margin-bottom: 30spx;
+  width: 1315px;
+  height: 775px;
+  background-color: #81968f;
+  border-radius: 20px;
+}
+.h4 {
+  width: 1250px;
+  height: 50px;
+  background-color: #cfb9a5;
+  margin: 20px 30px;
+  border-radius: 10px;
+  padding: 4px 0px 0px 30px;
+  color: #474747;
+  font-family: monospace;
+  font-size: 35px;
+  box-shadow: 0px 0px 10px 5px #846335;
+}
+.p4 {
+  background-color: #81968f;
+  color: #fff;
+  width: 1315px;
+  height: 600px;
+  padding: 4px 30px 30px 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  text-align: justify;
+  border: radius 20px;
+}
+.div5 {
+  width: 1358px;
+  height: 61px;
+  background-color: #cfb9a5;
+  display: inline-block;
+  box-shadow: 0px -1px 20px 0px #846335;
+}
+.div6 {
+  display: inline-block;
+  margin: -88px 0px 0px 522px;
+  background-color: #9cb7d8;
+  padding-bottom: 60px;
+}
+.end {
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  margin-top: 15px;
+  background-color: #cfb9a5;
+  color: #474747;
+  font-size: 21px;
+}
